@@ -1,0 +1,9 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cn.da0ke.update">
+
+    <application>
+        <meta-data android:name="BDAPPID" android:value="百度自动更新APPID"/>
+        <meta-data android:name="BDAPPKEY" android:value="百度自动更新APPKEY"/>
+    </application>
+
+</manifest>
